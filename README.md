@@ -18,6 +18,8 @@ In summary, xAI focuses on making AI understandable and transparent, enhancing t
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Artificial Superintelligence](https://github.com/sourceduty/Artificial_Superintelligence)
+<br>
+[AGI](https://github.com/sourceduty/AGI)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
